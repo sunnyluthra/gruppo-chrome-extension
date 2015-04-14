@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Gruppo.io",
+    "description": "A nice little plugin for searching facebook group posts"
+  },
+  "appDescription": {
+    "message": "Extends facebook group's search with couple of filters",
+    "description": "Search facebook group by using filters like 'by user' or 'in posts' with 'and' 'or' operators"
+  }
+}
